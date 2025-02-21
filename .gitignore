@@ -1,2 +1,4 @@
-WRDS_USER="matchalatte2609"
-WRDS_PASSWORD="WrdsKhang2024#"
+.env
+.DS_Store
+__pycache__/
+*.pyc
